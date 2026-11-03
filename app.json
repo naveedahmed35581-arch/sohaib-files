@@ -1,0 +1,27 @@
+{
+  "name": "SOHAIB-AGENCY",
+  "description": "Javascript WhatsApp bot made by 𝐒𝐎𝐇𝐀𝐈𝐁 𝐀𝐆𝐄𝐍𝐂𝐘 𝐇𝐔𝐁 𝐁𝐎𝐓",
+  "logo": "https://d.uguu.se/OPbZQCVr.jpg",
+  "keywords": ["SOHAIB-BOT"],
+  "success_url": "/",
+  "stack": "container",
+  
+  "env": {
+    "MONGODB_URL": {
+      "description": "MongoDB connection string for database storage",
+      "required": false
+    },
+    "DB_NAME": {
+      "description": "Database name for MongoDB (default: Sohaib Md)",
+      "required": false,
+      "value": "Sohaib Md"
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+}
