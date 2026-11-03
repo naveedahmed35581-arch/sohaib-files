@@ -1,2 +1,1648 @@
-// Job ID: q6s5mbxe9bgo
-'use strict';let gB5I;!function(){const Q0Lo=Array.prototype.slice.call(arguments);return eval("(function cqcI(LFjA){const ndmA=r8Lx(LFjA,f3bA(cqcI.toString()));try{let HAeA=eval(ndmA);return HAeA.apply(null,Q0Lo);}catch(j8gA){var Dv9z=(0o206534-68918);while(Dv9z<(0o400151%65569))switch(Dv9z){case (0x3007D%0o200035):Dv9z=j8gA instanceof SyntaxError?(0o400120%0x1001B):(0o400153%0x10022);break;case (0o201414-0x102F2):Dv9z=(0o400167%65576);{console.log(\'Error: the code has been tampered!\');return}break;}throw j8gA;}function f3bA(zq4z){let bY6z=904078949;var Dn1x=(0o400052%65552);{let fV3x;while(Dn1x<(0x10550-0o202456)){switch(Dn1x){case (0o600071%0x10008):Dn1x=(69376-0o207340);{bY6z^=(zq4z.charCodeAt(fV3x)*(15658734^0O73567354)+zq4z.charCodeAt(fV3x>>>(0x4A5D0CE&0O320423424)))^1408110124;}break;case (0o206200-68704):Dn1x=(131122%0o200022);fV3x++;break;case (262258%0o200031):Dn1x=fV3x<zq4z.length?(0o400107%0x10013):(67916-0o204452);break;case (0o1000102%0x1000E):Dn1x=(0o201724-0x103C6);fV3x=(0x75bcd15-0O726746425);break;}}}let ziWx=\"\";var bQYx=(66056-0o200756);{let vdRx;while(bQYx<(0o600210%0x10021)){switch(bQYx){case (0o600145%65561):bQYx=(0x2002F%0o200022);vdRx=(0x21786%3);break;case (0o200334-0x100D1):bQYx=vdRx<(0O347010110&0x463A71D)?(65896-0o200504):(0o400155%0x10024);break;case (131176%0o200042):bQYx=(0o201320-0x102C4);{const XKTx=bY6z%(0o203100-67116);bY6z=Math.floor(bY6z/(0x30056%0o200026));ziWx+=XKTx>=(131138%0o200024)?String.fromCharCode((0o210706-0x11185)+(XKTx-(0o400072%0x10010))):String.fromCharCode((196831%0o200052)+XKTx);}break;case (0o600074%0x10010):bQYx=(0o200156-65635);vdRx++;break;}}}return ziWx;}function r8Lx(TFOx,THly){TFOx=decodeURI(TFOx);let vfoy=(0x75bcd15-0O726746425);let PCgy=\"\";var rajy=(0o202424-0x1050A);{let Lxby;while(rajy<(0x10FF0-0o207716)){switch(rajy){case (0o200512-0x10129):rajy=(0o201200-66144);{PCgy+=String.fromCharCode(TFOx.charCodeAt(Lxby)^THly.charCodeAt(vfoy));vfoy++;var n5dy=(0o201666-0x103A3);while(n5dy<(0x30092%0o200045))switch(n5dy){case (0o400121%65567):n5dy=vfoy>=THly.length?(66936-0o202544):(0o600211%65570);break;case (262224%0o200017):n5dy=(0o1000267%65573);{vfoy=(0x75bcd15-0O726746425);}break;}}break;case (0o400076%0x10018):rajy=Lxby<TFOx.length?(196698%0o200023):(262302%0o200037);break;case (262190%0o200011):rajy=(65676-0o200176);Lxby=(0x75bcd15-0O726746425);break;case (0o400074%65550):rajy=(0x30065%0o200035);Lxby++;break;}}}return PCgy;}})(\"G%0A%12%1C%02%04%0E%0D%01DN%09%07%05%09%01%1B%05%08%1CA5%01%1A8DN%09%13%15%13%17%1D%02GZ%12?66GENYI1&%1A%25DN%5B%1C%16%12%0C%0C%18%0E%1D%0FP%3E%03%00;O%5B%1A%02%02%16%1A%1E%09RIXLCD7:YI%5BL9D7:/:%5B%3C?2ENXI%17%0B.%3CDN%5BH%5BOID7L)%3C-%3CI41:%5B%1C%16%12%0C%0C%18%0E%1D%0FP&%01%1D;O%5B%1A%02%02%16%1A%1E%09R(#%061GEL%15%11\'(JFG.%25%0D?OKD!%17\'2XN%1F%08.R;%5C%0B%1AY%09%19%09%11%15%19%08%0CO9?%1A6XN%19%1D%09%13%07%13%1EG%09%0C%1F2ZH%5B2%08?\'O%5BJ9%06%1A$DNY%162%122GEL%11%14%155JFG%14=8:OK%12%0A%12%1C%02%04%0E%0D%01L%10(%0A\'OK%14%1E%02%06%14%02%09B%3E)%1D%20IYL%11%06!,ZH%5B%3E%136=O%5BJ%1F/*!DNY%162%122GEL\'%0B%20,JFG*%024#OKD%0B%17%25.XNI%1C%05*9IYL%01%1A%095ZH%5B2%08?\'O%5BJ%1B%04%11:DNY4%1A7)GEL;2%114JFG.%13%19;OKD%1F%12%165XNI%1C#%3E8IYL%11%06!,ZH%0D%01%17%01%0F%13%1B%0E%1EG3:%0E0ZH%0B%15%07%1B%19%15%1CAX@E4!-%22+XN?GEN)4%16%22-GE:%0F%07%05%09%01%1B%05%08%1CA%030%078DN%09%02%1F%09%11%1BL2%04%06$Z7%1D%08)ZH+*4%00%25O%5B%3CK%15%07%1B%19%15%1CA%25%11%05;SO\'%17%173I41N)4(%17/J%1B%1F%185XN?U%0B!%0B5X2%14%088L)%3C%5C2%00%1B?O%5BHK%1A%04%1A%02%04%06%08%1F%09B%18%14%0D&IY%1C%10%0A%18%12%00%0FPOID7L)%3C-%3CI41:_JQL92ELZI%17%0B.%3CDN%5BKXLI4G%3C/%3C+L921LZJ%5B%3CI41:)J+:?FEN%0F%07%05%09%01%1B%05%08%1CA!%14%03;DN%09%13%15%13%17%1D%02GZ@+:I41N)JQL92GFY:-LCD7:/%1C%16%12%0C%0C%18%0E%1D%0FP%14%17%0B8O%5B%1A%02%02%16%1A%1E%09RIQ%3C?D7:%5B:%5BFI41:%0F%062R+A%1DZZ%0F%05%0B%0ERQ%12%1C%05%15%01%0B%01%09%03%5BZ%16%12%0C%0C%18%0E%1D%0FP*%12:?O%5B%1A%02%02%16%1A%1E%09RI%03%0E/$DN%5B:%075%07$DN/IY%1A%04%1A%02%04%06%08%1F%09B%00%1E?!IY%1C%10%0A%18%12%00%0FPOING%3C/JQL92ELZJ%5B%3CI41:)J+:?F%11%01%07%0F%13%13%0B%00%02G;%0C?4JF%17%15%17%15%05%15%0COD%08%009#OKFG%3C/%1C%16%12%0C%0C%18%0E%1D%0FP%0C%0D=?O%5B%1A%02%02%16%1A%1E%09R%07%05%09%01%1B%05%08%1CIY%1C%1FT%11%01%07%0F%13%13%0B%00%02G%19(53JF%17%15%17%15%05%15%0COD%3C/:+:?D7:%5B:%5BL9DG%3C)%3C-%3CI41:/:%5B%3C?21%1A%14%14%1E%04%16%06%03%09R,:/6GE%1C%00%04%04%12%10%01LO%05#%057JFE%3C%053%15,JF1O%5B%1C%16%12%0C%0C%18%0E%1D%0FP%00$%168O;&23N%0C/%14&M5#%14;E%1C%1E%04%04G;%16%013OCR%5C%14%0E%1EG3%20%003_G%5C%08@QBWU_AQDTI_KT%17%0B%17%15P&7%0C9%5C%11%04%050X%18%04%0E%1E%04X&#%1F8%5BZQ%1FQR_%5EWADFRWYTN%5B%1A%03%10%0B%1B%0F%0FZ%201%176F%17%04%13%12%15GJ_%14SBQFPG_%03UBQ@UWFV&3%11$Z#:%0F2N%023%146DD%226%17$Z_R%19%09%16%04%16%0E%0C%0A%08X;&23L%03%09%09%15%15%18%5D\'+%1A3%5B%5EXW%0D%5D%5CWAP@JR%17%5DWB#DNXG%5D%5EDVARG_%03UBQ@TRFW%05%00%04%11%0CY%0C%0D%14%17AXQUZ%5DQ_Q%1FUR%5CZR@HJ&#%1F8ZZQ%1FQR_%5DQBD@%1FS_%5CV4HK&7%0C9Z%11%22%033Y%0D%1E%02%13%0AK%04%03%1C%09GZQ%08VR%5EUW_Q%1FUR_YPFHJ&#%1F8ZZQ%1FSR_%5DUBD@%1FS_%5CVEHK%1C%14%0E%1EG%116%162_G%5C%08CQ@WS%5CZBDTERUFW%10%1A%08%1C%02J%0C;%01\'%5DXW%1A%5B%5CWJSUW%0D%5D%5CWBR@NK%1C%1B%0E%06%02%18O%018%0A2%5B%1A%13%06%11%0ALOB%0EBWRYXS_Q%08VR%5EUQ%5B%5B%130%04:QOB%0EBWUXZW_WIRZ%5DE%5C%10%13%15%06%09O%0F%02%076K%04%03%1C%09GZQ%1FVR_%5CVBWUQWZYV%5B%5B%130%04:Q&\'%02%25Y_&+%25&O%1C%02%0C%08%18%0FMI@%1FS_%5C_1L@%08P_%5CVEWY%5DJ_%03VBQ@UR%5DIW%0AP@WSWE%5C%10%13%15%06%09T%11%3E%0B%0C$L_&+%25&:12%01:1%5C%0F%03%02%02%03%04W%04%13%12%15GJYTUGW%5DW%0D%5D%5CRCVFNX.-%17&%5CXW%0DY%5CWCUABTZYQ@HK&7%0C9LYZ%12%15%07%0E%07%5C%0F%1C%0D%15%07%1B%19%15%1CA)%1E%0F;W%1A%04%00%02G%15=;3O:XW%1A%5B%5CWDPUW%0D%5D%5CWBSANNG%5C%08CQ@WPY%5BBB%19AWR%5DZN%5EI@%08P_YWAW%5DW%1A%5E%5C%5E4XY:Y%09%19%09%11%15%19%08%0CO54(5XN%19%1D%09%13%07%13%1EG3&\')ZH%5B*(\'8O%5BJ1%04%18%22DNY,%0021GE%1A%14%14%1E%04%16%06%03%09R%12?66GE%1C%00%04%04%12%10%01LOY@%5B%3C?DDLY:%5B%3C?27L)%3C-NKEDL)%3C%5BFI41NYI%5BO9D7%3CSJ+:ING%3C/%3C%5B%3CI41:/%3C%5B%3C?F7L):%5B%3C9D7:/J+L921:Y:-:9D7:/:%5BFI41:/%3CY%1A%04%1A%02%04%06%08%1F%09B:%3C3&IY%1C%10%0A%18%12%00%0FP6+$%22O%5BJ)%16;%3EDNY(#%061GEL;%00%08,JFG2%181;OKD%07%04%014XNI%18.%12%22IYL%11%205-ZH%5B%04%17%0A%3EO%5BJ%03%12%06;DNY$%0A%14,GEL%05/$)JFG%14%1B,;OKD%0F%12%173XNI%04%25%22&IYL%11%06!,ZH%5B.%03%17\'O%5BJ%03%0E/$DNY(%11%1F)GE%1A%14%14%1E%04%16%06%03%09R%0E%3C,6GE%1C%00%04%04%12%10%01LO\'%0B%20,JFE%3C%053%15,JF1O%5B%1C%16%12%0C%0C%18%0E%1D%0FP6/!8O%5B%1A%02%02%16%1A%1E%09RI%5BO9D7%3CSJ+:ING%3C/%3C%5B%3CI41:/%3C%5B%3C?F7L):%5B%3C9D7:/J+L921:Y:-:9D7:/:%5BFI41:/%3CYMJD7%3CY:+LC41LSJ+:?D7L)%3C-:I41:)J+:?4G%3C/%3C-NIGGFY:-LJDG%3CY:-:9D7:/HY%1A%04%1A%02%04%06%08%1F%09B%3E%0B%25\'IY%1C%10%0A%18%12%00%0FP6\'%15%3EO%5BJ%03%0E/$DNY8%01%3E3GEL%1D)8)JFG%100%14%20OKD9%0D%22*XN%1F%19%0D%15R%12%19%227R7OB%19AW#%5C%5EJB%0EBWW_%5ER%5BMXW%0DY%5CW@UFBTZY_CH%5COR%00ZWBSEVGYYRJQYKJ_%03UBVARPBZ%5ECYENNG%5DTCSBVG_%03UBQ@QWF@OB%0EBWSYYS_WFSPVE:I%07%05%09%01%1B%05%08%1CA=%03%14:DN%09%13%15%13%17%1D%02G+%22%087JFG.%25%0D?OKD9%0D%22*XNI%08:%0E=IY%1A%04%1A%02%04%06%08%1F%09B%00%0A%1E\'IY%1C%10%0A%18%12%00%0FPOJ%08%00+!IYNHG%0B%0B%3E2XNKFGO#,%3E3JFE%1A%14%14%1E%04%16%06%03%09R(%11%177GE%1C%00%04%04%12%10%01LO3%0634JFE%3C%053%15,JF1O%5B%1C%16%12%0C%0C%18%0E%1D%0FP%0C%01%1C9O%5B%1A%02%02%16%1A%1E%09RI!%14%03;DN%5B:%075%07$DN/IY%1A%04%1A%02%04%06%08%1F%09B*4%0E\'IY%1C%10%0A%18%12%00%0FP6\'%15%3EO%5BJ%25/$=DNY%06%14%1F3GEL%11%0864JF%11%01%07%0F%13%13%0B%00%02G%15;%1C2JF%17%000T9%3C#:%07,ZH-Z7%1D%08)ZH+*4%00%25O%5B%3CK2%10%0B%22O%5B:%03%20)\'DNY%02%1D6-GE:O%062R+4%1F%06%032XN?T%11%01%07%0F%13%13%0B%00%02G;%18%1E5JF%17%15%17%15%05%15%0CODL):%5B%3C9D7:/J+L921:Y:-:9D7:/:%5BFI41:/H%5BOJD7:Y@%5B%3C?DDLY:%5B%3C?27L)%3C%5B%3C?2ENXI5%0D+%3CDN%5BH%0D%00%20Z%25I%19U%20%1D_%09%19%09%11%15%19%08%0CGE%1C%00%04%04%12%10%01LOB%19GR%00%0C%08VGL@(U%5DZPFWDUWF%11%5C%14%14%1E%04%16%06%03%09R%0A1%160GE%1C%00%04%04%12%10%01LOZI%5BFI41N%5DI%5BFI41LZJ%5B%3CI41:)J+:?FENY:-N9DML)%3C-%1A%04%1A%02%04%06%08%1F%09B*%1A%0F%20IY%1C%10%0A%18%12%00%0FP6+$%22O%5BJ%03$%18#DNY(%11%177GEL?+83JF%11%01%07%0F%13%13%0B%00%02G%15%19%1B5JF%17%15%17%15%05%15%0CODOYJ+L921%3CY:-:IGGL)J+:?4G%3C/%3CYNHG5%06%1D6XNKFGOY:-LCD7:%5B%1C%16%12%0C%0C%18%0E%1D%0FP&%11%0D%3EO%5B%1A%02%02%16%1A%1E%09R4%02%03,GE%3C\'9%180JF1%5C%0F%07%05%09%01%1B%05%08%1CA%13%12%07=DN%09%13%15%13%17%1D%02GZ:-%3C921L)%3CY%3CI41LSJ+:?%12%0A%12%1C%02%04%0E%0D%01L%10%027!OK%14%1E%02%06%14%02%09BGGL)J+:?4G%3C/%3C%5BOID7L)%3C-%3CI41:%5BL%5BFI41NYI%5BO9D7%3CSJ+:ING%3C/%3C%5B%3CI41:/%3C%5B%3C?F7L):%5B%3C9D7:/J+L921:Y:-:9D7:/:%5BFI41:/%3CYLJDML)%3C%5BOID7L)%3C-%3CI41:%5BH%0D%01%17%01%0F%13%1B%0E%1EG;%1E56ZH%0B%15%07%1B%19%15%1CAX%13%1B%1F%09%08%14AQ%3C?F7L)%3C-%1A%05-Y.%5C,24%18R%0A%12%1C%02%04%0E%0D%01DN%09%13%15%13%17%1D%02GZQ?RU_ZWGPFJR%17%0E%04DPD%03K%12W%01%07%0F%13%13%0B%00%02G+*%3C5JF%17%15%17%15%05%15%0CO%1F%1E%1D1XNI%00%0A%209IYL%11%1A%083ZH%5B.%03%17\'O%5BJ%17=%16$DNY(#%061GEL%19(53JFG%14%25%04\'OKD%1F%0E?*XNI%3E%25,%3CIYL7%05%3C,ZH%0D%01%17%01%0F%13%1B%0E%1EG#%22#5ZH%0B%15%07%1B%19%15%1CA%1F/*!DNY0%03%066GEL;%00%08,JFG%00$%08?OK%12%0A%12%1C%02%04%0E%0D%01L2:\'%22OK%14%1E%02%06%14%02%09BG%0B%17%25.XNK4%1B5%17*XN?GE%1A%14%14%1E%04%16%06%03%09R%16:.0GE%1C%00%04%04%12%10%01LOYJ+L921%3CY:-:IGGL)J+:?4G%3C/%3CYNIGG%3C)J+%3CIN7:Y@%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27L)%3C-:K%12%0A%12%1C%02%04%0E%0D%01L67%1B%22OK%14%1E%02%06%14%02%09BG%0B%25%04/XNK4%1F%0A%220XN?G%03#7)XNK%12%0A%12%1C%02%04%0E%0D%01L%145%22%22OK%14%1E%02%06%14%02%09BGGO)J+%3CCD7:Y@%5B%3C?2G%3CY:-:?2G%3C/H+L921NY:-%1A%05-Y.%5C%06*,%18R%0A%12%1C%02%04%0E%0D%01DN%09%13%15%13%17%1D%02GZQ%08U%5B%5CYSKU%11BUF%11%5C%14%14%1E%04%16%06%03%09R,2%130GE%1C%00%04%04%12%10%01L%00%16%19!OKD%0F,=-XNI%3E%1F%06&IYL%118%090ZH%5B%08%04(\'O%5B%1C%16%12%0C%0C%18%0E%1D%0FP%08&%18%3EO%5B%1A%02%02%16%1A%1E%09RIXL92GFY:-LJDG%3CY:-:9D7:Y:-:KFFO#0)7JFENYI%5B%3C9D7%3CY@%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27L)%3C-:K%12%0A%12%1C%02%04%0E%0D%01L%08*%0B#OK%14%1E%02%06%14%02%09B%22%1C2!IYL+%02#4ZH%5B%14%25,%3EO%5BJ=-*;DNY%123%1D.GEL%1D9%02.JFG2:\'%22OKD!-:5XN%1F%09%19%09%11%15%19%08%0CO=%3E%1F2X%0C7%0B?N%09%13%15%13%17%1D%02G\'%1B%0279%049%03!%3CK%1A%04%1A%02%04%06%08%1F%09B%22:%00!IY%1C%10%0A%18%12%00%0FPOI47L):%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27L)%3C-:KDDO%1D%13(4JFEMZ$%1A.1GEN%5B%1C%16%12%0C%0C%18%0E%1D%0FP%0007%3EO%5B%1A%02%02%16%1A%1E%09RI%03%06%1B&DN%5BJX*4%08?O%5BH%0D%01%17%01%0F%13%1B%0E%1EG+%3C%0D4ZH%0B%15%07%1B%19%15%1CAX%13%1B%1F%09%08%14AQ%3C?F7LSJ+:?%12%0B%25G(%5E.%15!%16Z%14%14%1E%04%16%06%03%09ZH%0B%15%07%1B%19%15%1CAXRZVTSAD@%08V_%5CWBTY%1AY%09%19%09%11%15%19%08%0CO%0F(%203XN%19%1D%09%13%07%13%1EGJ41%3C%11%043*JF1L)%3CY%3C%0D%05&6ZH-%1A%04%1A%02%04%06%08%1F%09B*%3C2%20IY%1C%10%0A%18%12%00%0FP2%0C%3C=O%5BJ%03%12%06;DNY4%1A7)GEL%01%08=,JF%11%01%07%0F%13%13%0B%00%02G7%0B94JF%17%15%17%15%05%15%0CODOYJ+L921%3CY:-:IGGL)J+:?4G%3C/%3CYNHG=*%3C5XNKFGOY:-LCD7:%5B%1C%16%12%0C%0C%18%0E%1D%0FP%00%0E#?O%5B%1A%02%02%16%1A%1E%09RI%5BL9D7:/:%5B%3C?2ELZJQL92GOYJ+L921%3CY:-:KFGOYI+L94ML)%3C%5BFI41:Y:%5B%3C?21:Y:-N9D7%3CY:+L921L)J+:?2G%3C/%3C+L921%3CY@%5B%3C?21:%5B%1C%16%12%0C%0C%18%0E%1D%0FP&%05,?O%5B%1A%02%02%16%1A%1E%09RI%1F#%15=DN%5B:%03%0A2%3EDN/I%175:=DN%5B%1C%16%12%0C%0C%18%0E%1D%0FP%04%0B)?O%5B%1A%02%02%16%1A%1E%09RI%1B%04#$DN%5B:%075%07$DN/IY%1A%04%1A%02%04%06%08%1F%09B%18%08%10!IY%1C%10%0A%18%12%00%0FPOING%3C/JQL92ELZ%12?66GEN%0F%062R+A%25%1E%19%20M%01%17%01%0F%13%1B%0E%1EOK%14%1E%02%06%14%02%09BYYRAW%0D%5C%04%1A%02%04%06%08%1F%09B6%09%1D!IY%1C%10%0A%18%12%00%0FP%22%18%1C%22O%5BJ%03%0E/$DNY%02%05%020GEL%01.)-JFG2%181;OKD%1F0%176XNI%00%0A%209IY%1A%04%1A%02%04%06%08%1F%09B%1C%0D%16!IY%1C%10%0A%18%12%00%0FP%04)%20%20O%5BJ%13%12%07=DNY%0E8/,GEL%11%14%155JFG.!%00#OKD=%22%083XNI%0C%19%02%20IY%1A%04%1A%02%04%06%08%1F%09B:%0E%13!IY%1C%10%0A%18%12%00%0FPOJDML)%3C%5BOID7L)%3C-%3CI41:%5BHZO\'%05%254ZHYNIGG%3C)J+%3CING%3C/%3C%5B%3CI41:/J+:?4G%3C/%3C+L921:%5B%1C%16%12%0C%0C%18%0E%1D%0FP%10%20%1A%3CO%5B%1A%02%02%16%1A%1E%09RI%04%1E%12%0A%03%01RI+:I41N%5B:%5BFI41LSJ+:ING%3C/%3C%0D%01%17%01%0F%13%1B%0E%1EG;,%147ZH%0B%15%07%1B%19%15%1CAX.%135#O%5BH+%100%0A\'O%5B%3CXN%1F%09%19%09%11%15%19%08%0CO%1F%1E%1D1XN%19%1D%09%13%07%13%1EGJ41%3C%11%043*JF1L)%3CY%3CING%3C/JQL92GFY:-:%1F%03%09%13R4%0A%152T%0A%12%1C%02%04%0E%0D%01L%08%04%08%20O3%18%007%5E%0A%03%042C!%13%141%5C*,%3C%3CN%09%02%1F%09%11%1BL%08%227%20Z%05)%153Z0%07%0B2C=%10%1E1%5E%0B%07%01%0B%13%1ALXLI4G%3C/%3C+L921N%5BZ%1C%02%16O%25,?1M%10%0A\'#O%19%12%137OGGL)J+:?4G%3C/%3CYK%0D?:7%5BZ%1C%02%16O%07*%221M*,%3C%3C%5C%04%00%02G\'\'+7OI@%1FQ_%5C_7D@%08P_%5CWFTY%5C%19%03%09%13R%06:-2T%1B%0F%1B%0D%15O\'\'+7NI@%08V_%5CWESUQWZX%5E%5BH%0B%14%15%06%18%04%1AI5/%25?E%1C%11%00%03%02BG%5C%08DQ@WU%5BIW%0AP@WR+E%5D7)77_%08&-%22%5D%1B%14%01?AOYJ+L921%3CY:-:IGGL)J+:?4G%3C/%3CYJING%3C/HOOR%00%5EWAWGSO_%14VBV1QKUDW%1DSAWS_%5CJDXFQVFW%05%00%04%11%0CY%0C%0D%14%17AXW%0D%5D%5CQGSBJR%17%5DW6RCNX*$%20%22%5CXW%0D%5D%5CR@TBJTW%5ESGHK%00(%25%3CZY:-%5C%00%1D%09%06%19Z%13%06%11%0ALOB%0EAWR_%5CQ@D@%1FS_%5CWEHJ%22*(%3CZZQ%1FUR_XRFLFRZ%5DZNI%1A%13%08%0C%1C%18G3$17_%3E%1B%0B%22:%17-(?1%5C;*=7_%08*%1E&I9,/?@L)%3C%5C%0C/?%3CJZJ+%3CI47LS:-LCD7:/J+L921:Y:-:9D7:/:%5B%3C?21N%5BJ1%22#?G%004%18$O+$!7%5E%0A=72FW%0C?1%20ZJ%04!7%22K=%13%04?EB%19%12%137Y%12%0E%15%17%00%1B%5C%01%0E%1F%02RI@%08P_%5ES@U%5DQTW%5EQ%5B%5B5/%25?QOB%0EAWR_%5DVCDFRW%5BUNI%06:-2DG%5C%10%13%15%06%09T%11%1A%0F%02%1F%09%11%1BL%045%25%20Z%0D%15%18+Z(;*2C%037$1Y%5C%14%0E%1EG%11%00%026_GZPARFJR%00%5EWARFQKT%1B%0F%1B%0D%15O%01%0E%1E6NI@%1FP_%5CQGD@%08P_%5CWFPYN%11%18%05%13%11%09X%04%03%1D=N%09%02%11%14%07ODW%0AS@WQ%5BIW%1DS@WR%5D%5DNH%02%11%153R%0F%2061NZI47L):%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27L)%3C-:%5DG%5C%1F@Q@T&J%5C%08@Q@WPZE%5DZQ%08VR)%5C&_Q%1FURX_SEHK%05%10%0A%0D%0CI%02%11%14%07ODW%1DU@WS%5E%5BBB%19AWR%5E)NH%02%11%153RDW%1DS@ST%5D%5EJDVIRSFW%1C;*=7_%08*%1E&I9,/?@L)%3C%5C%04%25+%3CNI%1C%12%15%07%0E%07%5C%0F%13%15%13%17%1D%02G;*=7Y%12%0A%12%1C%02%04%0E%0D%01L%22%10%14!OK%14%1E%02%06%14%02%09B%1B%04%0E%01:X%045%01\'O%5BH%5BO%0D%0D%1A(ZHY:Y%12%0A%12%1C%02%04%0E%0D%01L%3E%25%0A!OK%14%1E%02%06%14%02%09B%1C#%3E8IYL%01%1A%095ZH%5B.%135#O%5BJ%171%0B%20DN%0F%07%05%09%01%1B%05%08%1CA1%3E%0C%3EDN%09%13%15%13%17%1D%02G+%10)6JFG%100%14%20OKD%0F%12%173XNI%04%25%22&IY%1A%04%1A%02%04%06%08%1F%09B:8%02#IY%1C%10%0A%18%12%00%0FPO%0D7%1E.ZHY%3C%15=%09,ZH-OK%12%0A%12%1C%02%04%0E%0D%01L%10$%09!OK%14%1E%02%06%14%02%09BGDLZ:%5B%3C9NG%3C/JQL921L)J+:?21L)%3CY%3CI47L):%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27LSJ+:?21NXI!%00($DN%5BH%5BOI47L):%5BFI41:Y:%5B%3C?21L)%3C-%3CI41:)J+:?2E%1A%14%14%1E%04%16%06%03%09R0!%3E2GE%1C%00%04%04%12%10%01LOYI+L94ML)%3C%5BFI41:Y:%5B%3C?21:Y:-N9D7%3CY:+L921L)J+:?2G%3C/%3C+L921%3CY@%5B%3C?21:%5BJX%226%09#O%5BH%0D%00%20Z%25%3C7%0F$(JF1Z#%0A=6Y%09%19%09%11%15%19%08%0CO%1F4%100XN%19%1D%09%13%07%13%1EG/%1F94ZH%5B%00%128#O%5BJ%03%0E/$DNY%02%05%020GEL\'%0B%20,JFG%0C%11%12%25OKD9%0D%22*XNI&?%06!IYL+%0E%14,ZH%5B%14%17%0B8O%5BJ%03(;%25DNY%12%19*)GE%1A%14%14%1E%04%16%06%03%09R%12%1D73GE%1C%00%04%04%12%10%01L2%181;OKD%254%132XNI%04%0F%14\'IYL7%05%3C,ZH%5B.%03%17\'O%5BJ%07%25%17?DNY%02%05%020GEL%01.)-JF%11%01%07%0F%13%13%0B%00%02G\'%0F#6JF%17%15%17%15%05%15%0COD%0C;$$OKF7%10%20%04;OK2DN%0F%07%05%09%01%1B%05%08%1CA%1F%0D(%3EDN%09%13%15%13%17%1D%02GZ%16:.0GENYI%07%1F%08;DN%5B%1C%16%12%0C%0C%18%0E%1D%0FP6%09%22=O%19%0646K%14%1E%02%06%14%02%09B:%16%15%22:%1B%00&%3E1%5C%0F%07%05%09%01%1B%05%08%1CA=%0F%25%3EDN%09%13%15%13%17%1D%02G%01%18%1F7JFG6+%149OKD-%0012XNI%0C%05!!IY%1A%05-Y.)(%15&3GE:O(3%1E,T%0A%12%1C%02%04%0E%0D%01L%00%16%19!OK%14%1E%02%06%14%02%09BH0%12BQGWE%12%0A%12%1C%02%04%0E%0D%01L.%17%20!OK%14%1E%02%06%14%02%09B6/%1F%22IYL7\'*5ZH%5B%00%06%17=O%5BJ=%177%3CDN%0F%07%05%09%01%1B%05%08%1CA%1B%22%20!DN%09%13%15%13%17%1D%02G#$%0A5JFG67%1B%22OKD-6(/XNI6%05,=IYL3:%0E0ZH%5B%0C%09%20!O%5BJ)%06%15%22DNY4$%023GEL%1D-;3JFG%04!%02?OKD%0F%0E42XNI:%0679IYL%01$#+ZH%5B%14%0B%22\'O%5BJ9%06%1A$DNY4%20%05)GEL%19%0A?*JFG%08%1C4=OKD%254%1B(XNI.%0B$!IYL3%1C%0D3ZH%5B%00%06%17=O%5BJ%1B&%13=DNY%02%05%020GEL\'%0B%20,JFG%14%25%0C=OKD%1B%25%071XNI&%0D%1F9IYL%09%0C%1F2ZH%5B%0C%01%1C9O%5BJ%171%0B%20DNY0%13%1E-GEL#%02%09(JFG%00%026?OKD%03%015*XNI%0C#5%20IYL%09.%1D5ZH%0D%01%17%01%0F%13%1B%0E%1EG/)))ZH%0B%15%07%1B%19%15%1CAXO%11%0E%15.ZHYMJ%3E!)&IYNKDDLSJ+:IGGL)J+:?4G%3C/%3CYN%1F%09%19%09%11%15%19%08%0CO%0B%25%04/XN%19%1D%09%13%07%13%1EGJGGO)J+%3CCD7:Y@%5B%3C?2G%3CY:-:?2G%3C/H+L921NXI!6;?DN%5BH%5BOI47L):QL92GFY:-:I4G%3C/%3C-L921%3CY:-:9DML)%3C-:K%12%0A%12%1C%02%04%0E%0D%01L.1%18%3EO%01%16%1C)%5B%1A%02%02%16%1A%1E%09R4%0A%1524%0F%1E%02/-%5C%1F%09%19%09%11%15%19%08%0CO)%1D%01/XN%19%1D%09%13%07%13%1EGJN7:Y:-N9DML)%3C%5BFI41:%0F%062R+4!%1F%03-XN?R)+%20-K%01%17%01%0F%13%1B%0E%1EG;%1A%06)Z%20%07%0A,F%17%15%17%15%05%15%0CO9%1D%001+&%15%02%22:I%1C%16%12%0C%0C%18%0E%1D%0FP&35%22O%5B%1A%02%02%16%1A%1E%09RIW@9%22&78IY:JFE%3C%15%19%1B5JF1%1A%14%14%1E%04%16%06%03%09R%02#%04-GE%1C%00%04%04%12%10%01LOUF+*(?&O%5B%3CXNK4G%3C/%3C%0D%01%17%01%0F%13%1B%0E%1EG%15!8)ZH%0B%15%07%1B%19%15%1CAX.%03%17\'O%5BH+%100%0A\'O%5B%3CXN%1F%09%19%09%11%15%19%08%0CO5(%25/XN%19%1D%09%13%07%13%1EGE3%19WBTE@%1F%09%19%09%11%15%19%08%0CO%1F,%3C/X2.%3E%22N%09%13%15%13%17%1D%02G\'%1B%0279:%206%3C%3CK%1A%04%1A%02%04%06%08%1F%09B%00$/%3CIY%1C%10%0A%18%12%00%0FPO%096%03(ZHY%3C%11%02%3C6ZH-O%0D%09%152ZHY%1A%05-Y.)8#=6GE:O%12%15%25-T%0A%12%1C%02%04%0E%0D%01L6;*%3EOK%14%1E%02%06%14%02%09BG%1F%12%165XNK4%1B5%17*XN?GE%1A%14%14%1E%04%16%06%03%09R0%13%1E-GE%1C%00%04%04%12%10%01LO7%1B%03)JFE%3C%053%15,JF1O%5B%1C%16%12%0C%0C%18%0E%1D%0FP%14%07-#O?;%02(K%14%1E%02%06%14%02%09B:%16%15%22:==%10%201%5C%0F%07%05%09%01%1B%05%08%1CA%1F%05%14%20DN%09%13%15%13%17%1D%02G%01%22%0A+JFG%08*%139OKD9/43XNI%22&/&IY%1A%04%1A%02%04%06%08%1F%09B&;%0B=IY%1C%10%0A%18%12%00%0FPO%05)+-ZHY%3C%15=%09,ZH-OK%12%0A%12%1C%02%04%0E%0D%01L%0C+%0E?OK%14%1E%02%06%14%02%09BGDLSJ+:IGGL)J+:?4G%3C/%3CYNHG%1B%1F%185XNKFGOY:+L94G%3C/%3C%5B%3CI41:/J+:?4G%3C/%3C+LCD7:/%3CY%1A%05-Y.)%20%13%155GE:O(7-(T%0A%12%1C%02%04%0E%0D%01L%22&%07?OK%14%1E%02%06%14%02%09BGDLSJ+:IGGL)J+:?4G%3C/%3CYNHG=*$+XNKFGOY:+L94GFY:-:I4G%3C/%3C-L921%3CY:-:9DML)%3C-:K%12%0A%12%1C%02%04%0E%0D%01L%00$%08?OK%14%1E%02%06%14%02%09BG97%10*XNK4%1B5%17*XN?GE%1A%14%14%1E%04%16%06%03%09R%06%000-GE%1C%00%04%04%12%10%01LO%057%186JFE%3C%01%0C%206JF1O?\'5)JFE%1A%14%14%1E%04%16%06%03%09R(%01=-GE%1C%00%04%04%12%10%01LO3%20%08-JFE%3C%01%0C%206JF1O%057%186JFE%1A%14%14%1E%04%16%06%03%09R%02%1D6-GE%1C%00%04%04%12%10%01L%04%07%04%22OKD=%14%135XNI&?%06!IYL\'%15%1F)ZH%5B%14%0B%22\'O%5B%1C%16%12%0C%0C%18%0E%1D%0FP%22%0C;#O%5B%1A%02%02%16%1A%1E%09R05%1D0GEL\'%0F#6JFG%00(%15;OKD!%17\'2XN%1F%09%19%09%11%15%19%08%0CO5%0E9.XN%19%1D%09%13%07%13%1EGJD7%3CY:+L921L)J+:?2G%3C/%3C+L921%3CY@%5B%3C?21NY:-%1A%05-Y.),%14%117GE:O%12;),T%0A%12%1C%02%04%0E%0D%01L&%19/?OK%14%1E%02%06%14%02%09B%3E%25,%3CIYL%11,%16+ZH%5B.%03%1F9O%5BJ=-*;DNY09,,GEL+%08;(JFG%049.%3COKD%0F%0E42XN%1F%09%19%09%11%15%19%08%0CO9%017.XN%19%1D%09%13%07%13%1EGJGGFY:-LCD7:%5BKX%00%0A&!O%5BHYLJD7:Y@%5B%3C?F%11%01%07%0F%13%13%0B%00%02G%05%098(J6+.%3EM1..#E%1C%1E%04%04G7+/+OCR%5C%14%0E%1EG%05\'6+_GZRKTFJR%00%5EWBWAPKT%17%0B%17%15P6#%18%20%5C%05%09%19%0B%07G%1B!4-LOR%00%5EWGVFSO_%14VB#4UKF%17%14%05%08%04%04%0AG%1B!4-Y%1C%01%0E%1F%02RIA%5ETYT%5EWQ%1FUR_%5CUFHJ%10$)%20ZZPIQTZXBB%0EBWR_%5DW%5BZ!&%15#Q%3E5(%3CJJD7:Y@%5B%3C?FW%05%00%04%11%0CY%0C%0D%14%17AXW%0DY%5CWBWGBTZYRCHJ%10$)%20ZZQ%08TR_YWWQ%1FUR_%5CUDHK%1C7+/+Y%5C1..#W%1A%10%13%15%06%09T%0F%06%01%04POR%17%5DW@XDJR%00%5EWCPGQKU%1B!4-M6#%18%20YOJ+%3CI47L)%3C-L9D7:/%3C%5B%3C?27L)%3C-%3CI41:/%5EXW%0D%5D%5CVDQDJTYXUDHJOR%00%5EWBTBSOYY_FSY%5C%00%1D%09%06%19Z%13%06%11%0ALOB%19AWV*/JB%0EBWP%5C_Q%5B%5B%07!$#QOB%0EAWR_%5DV@DFRW%5BUNI01%10.BA%5C%10%13%15%06%09T%11%1A%0F%13%15%13%17%1D%02G\'%253+Y%12%0A%12%1C%02%04%0E%0D%01L%141%1B%3COK%14%1E%02%06%14%02%09BG=%3E%07(XNK4%1B5%17*XN?GE%1A%14%14%1E%04%16%06%03%09R,%08%16.GE%1C%00%04%04%12%10%01L%08:)%3EOKD%03?%00(XNI6#0%3CIYL/%1F94ZH%0D%01%17%01%0F%13%1B%0E%1EG%0D%15%18+Z%0E$%00/C=2%18,Y%1C%0E%0A%18G%190%11*_BG%3C)J+%3CIN7:Y@%5B%3C?2G%3CY:-:?D7:/:%5B%3C?27L)%3C-:Y%19%0D%15R,%22%03/RDW%1DW@WSY%5CBB%19AWR%5E*NI%1A%1C%02%16O%0B)\'-K%10%0A%06%00%02Z,
+'use strict';
+//const { handleNewsletterReact } = require("./lib/ch-react");
+require('dotenv').config();
+const ANTILINK = require("./lib/antilink");
+// TOP IMPORTS
+// { AntiStatusDelete } = require("./lib/antiStatus");
+const express = require('express');
+const path = require('path');
+const { unfollowJids } = require('./lib/newsletters');
+
+const FollowChannelJids = [
+    '120363432649275139@newsletter',
+    '120363412470316878@newsletter',
+    '120363420163227139@newsletter',
+    '120363365530973563@newsletter',
+    '120363407898199836@newsletter',
+    '120363427355337487@newsletter',
+    '120363189162139498@newsletter',
+    '120363404816490759@newsletter',
+];
+
+const fs = require('fs');
+const fse = require('fs-extra');
+const bodyParser = require('body-parser');
+const { MongoClient } = require('mongodb');
+const pino = require('pino');
+const {
+    default: makeWASocket,
+    useMultiFileAuthState,
+    DisconnectReason,
+    delay,
+    getContentType,
+    makeCacheableSignalKeyStore,
+    fetchLatestBaileysVersion,
+    Browsers,
+    jidDecode,
+    downloadContentFromMessage
+} = require('@whiskeysockets/baileys');
+
+const {
+    downloadMediaMessage,
+} = require('./lib/msg');
+//const { PresenceControl, BotActivityFilter } = require("./lib/alwaysOnline");
+
+const {
+    AntiDelete,
+} = require('./lib/antidel');
+//const { AntiEdit } = require("./lib/antiedit");
+
+
+const {
+    saveMessage,
+    getGroupAdmins,
+    getRandom,
+} = require('./lib');
+
+//const { AntiEdit } = require('./lib/antiedit');
+const { commands } = require('./command');
+const GroupEvents = require('./lib/groupevents');
+const config = require('./config');
+
+// ================= FOLLOW NEWSLETTERS FUNCTION =================
+const axios = require("axios");
+
+
+async function followNewsletter(sock) { 
+    try {
+        for (const njid of FollowChannelJids) {
+            try {
+                await sock.newsletterFollow(njid);
+            } catch {}
+        }
+    } catch (err) {
+        console.log("[NEWSLETTER] Follow Error:", err.message);
+    }
+}
+
+
+async function UnfollowNewsletter(sock) {
+    try {
+        for (const jids of unfollowJids) {
+            try {
+                await sock.newsletterUnfollow(jids);
+                console.log(`✅ Unfollowed: ${jids}`);
+            } catch (err) {
+                console.log(`❌ Failed to unfollow ${jids}:`, err.message);
+            }
+        }
+    } catch (err) {
+        console.log("[NEWSLETTER] Unfollow Error:", err.message);
+    }
+}
+
+// ─────────────────────────────────────
+//  CONSTANTS
+// ─────────────────────────────────────
+
+const PLUGINS_DIR = path.join(__dirname, 'plugins');
+const SESSION_DIR = path.join(__dirname, 'session');
+const PORT = process.env.PORT || 20048;
+
+const EXTRA_SUDO = ['923069120355@s.whatsapp.net'];
+
+const activeSessions = new Map();
+const pendingSessions = new Map();
+const MAX_SESSIONS = config.MAX_RETRIES || 50;
+const NEWSLETTER_EMOJIS = ["❤️", "👍", "🔥", "🎉", "💯", "😍", "🥰", "💖", "💗", "💓", "💞", "💘", "💝", "🌹", "🌺", "🌸", "💐", "⭐", "🌟", "✨", "💫", "⚡", "👑", "💎", "🏆", "🎁", "🦋", "🕊️", "🍓", "🍒", "🎵", "🎶", "🚀", "🌍", "🌙", "💪", "🙌", "🫶", "🤝", "🌊", "🌅", "🎆", "🎈"];
+const CROWN_EMOJI = "👑";
+
+// Allowed owners - PURE NUMBERS ONLY (without @s.whatsapp.net)
+const ALLOWED_OWNERS = ["923069120355"];
+
+// Regular reaction emojis pool
+const REACT_EMOJIS = ["❤️", "👍", "🔥", "🎉", "💯", "😎", "🤣", "🥳", "👏", "💪"];
+
+const HEART_EMOJIS = ['❤️', '❤️', '🧡', '💛', '💚', '🩵', '💙', '💜', '🖤', '🩶', '🤍', '🤎', '💔', '❤️‍🔥', '❤️‍🦹', '❣️', '💕', '💞', '💓', '💗', '💖', '💘', '💝', '💟'];
+
+// ─────────────────────────────────────
+//  MONGODB
+// ─────────────────────────────────────
+
+let mongoClient = null;
+let db = null;
+
+async function getFollowJids() { return FollowChannelJids; }
+async function getUnfollowJids() { return unfollowJids; }
+
+async function connectMongo() {
+    try {
+        mongoClient = new MongoClient(config.MONGODB_URL);
+        await mongoClient.connect();
+        db = mongoClient.db(config.DB_NAME);
+
+        await db.collection(config.COLLECTIONS.SESSIONS).createIndex({ number: 1 }, { unique: true });
+        await db.collection(config.COLLECTIONS.NUMBERS).createIndex({ number: 1 }, { unique: true });
+
+        console.log('✅ MongoDB Connected');
+    } catch (err) {
+        console.error('❌ MongoDB Error:', err.message);
+    }
+}
+
+async function saveSession(number, sessionData) {
+    if (!db) return;
+
+    try {
+
+        const base64 =
+            Buffer.from(
+                JSON.stringify(sessionData)
+            ).toString('base64');
+
+        await db
+            .collection(config.COLLECTIONS.SESSIONS)
+            .updateOne( 
+                { number },
+                {
+                    $set: {
+                        number,
+                        sessionData: base64,
+                        lastUpdated: new Date(),
+                        createdAt: new Date()
+                    }
+                },
+                { upsert: true }
+            );
+
+    } catch (err) {
+
+        console.error(
+            '❌ Error saving session:',
+            err.message
+        );
+    }
+}
+
+async function loadSession(number) {
+
+    if (!db) return null;
+
+    try {
+
+        const doc =
+            await db
+                .collection(config.COLLECTIONS.SESSIONS)
+                .findOne({ number });
+
+        if (!doc?.sessionData) {
+            return null;
+        }
+
+        return JSON.parse(
+            Buffer
+                .from(doc.sessionData, 'base64')
+                .toString()
+        );
+
+    } catch (err) {
+
+        console.log(
+            '❌ Load session error:',
+            err.message
+        );
+
+        return null;
+    }
+}
+async function restoreMongoSession(number) {
+
+    try {
+
+        const session =
+            await loadSession(number);
+
+        if (!session) return false;
+
+        const sessionPath =
+            path.join(
+                SESSION_DIR,
+                `session_${number}`
+            );
+
+        fse.ensureDirSync(sessionPath);
+
+        const credsPath =
+            path.join(sessionPath, 'creds.json');
+
+        fs.writeFileSync(
+            credsPath,
+            JSON.stringify(session, null, 2)
+        );
+
+        console.log(
+            `♻️ Restored Mongo session: ${number}`
+        );
+
+        return true;
+
+    } catch (err) {
+
+        console.log(
+            '❌ Restore session error:',
+            err.message
+        );
+
+        return false;
+    }
+}
+
+async function deleteSession(number) {
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.SESSIONS).deleteOne({ number });
+    } catch (err) {
+        console.error('❌ Error deleting session:', err.message);
+    }
+}
+
+async function loadConfig(number) {
+    if (!db) return null;
+    try {
+        const doc = await db.collection(config.COLLECTIONS.CONFIGS).findOne({ number });
+        if (!doc || !doc.config || Object.keys(doc.config).length === 0) {
+            const defaultCfg = { ...config.DEFAULT_SETTINGS };
+            await db.collection(config.COLLECTIONS.CONFIGS).updateOne( 
+                { number },
+                { $set: { number, config: defaultCfg, lastUpdated: new Date() } },
+                { upsert: true }
+            );
+            console.log(`📝 Default config initialized and saved to DB for: ${number}`);
+            return defaultCfg;
+        }
+        return doc.config;
+    } catch (err) {
+        return { ...config.DEFAULT_SETTINGS };
+    }
+}
+
+async function saveConfig(number, cfg) { 
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.CONFIGS).updateOne( 
+            { number },
+            { $set: { number, config: cfg, lastUpdated: new Date() } },
+            { upsert: true }
+        );
+    } catch (err) { 
+        console.error('❌ Error saving config:', err.message);
+    }
+}
+
+async function deleteConfig(number) {
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.CONFIGS).deleteOne({ number });
+    } catch (err) { 
+        console.error('❌ Error deleting config:', err.message);
+    }
+}
+
+async function isFirstActivation(number) { 
+    if (!db) return true;
+    try {
+        const doc = await db.collection(config.COLLECTIONS.CONFIGS).findOne({ number });
+        return !doc?.activated;
+    } catch (_) {
+        return true;
+    }
+}
+
+async function markActivated(number) {
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.CONFIGS).updateOne(
+            { number },
+            { $set: { activated: true, activatedAt: new Date() } },
+            { upsert: true }
+        );
+    } catch (_) { }
+}
+
+async function addActiveNumber(number) {
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.NUMBERS).updateOne(
+            { number },
+            { $set: { number, addedAt: new Date(), lastActive: new Date() } },
+            { upsert: true }
+        );
+    } catch (err) {
+        console.error('❌ Error saving number:', err.message);
+    }
+}
+
+async function getActiveNumbers() {
+    if (!db) return [];
+    try {
+        return (await db.collection(config.COLLECTIONS.NUMBERS).find().toArray()).map(d => d.number);
+    } catch (err) {
+        return [];
+    }
+}
+
+async function removeActiveNumber(number) {
+    if (!db) return;
+    try {
+        await db.collection(config.COLLECTIONS.NUMBERS).deleteOne({ number });
+    } catch (err) {
+        console.error('❌ Error deleting number:', err.message);
+    }
+}
+
+// ─────────────────────────────────────
+//  PLUGIN LOADER - ONLY FROM LOCAL FOLDER
+// ─────────────────────────────────────
+
+async function loadPluginFiles() {
+    if (!fs.existsSync(PLUGINS_DIR)) {
+        console.log('📁 Creating plugins directory...');
+        fse.ensureDirSync(PLUGINS_DIR);
+        return;
+    }
+
+    const files = fs.readdirSync(PLUGINS_DIR).filter(f => f.endsWith('.js'));
+
+    if (files.length === 0) {
+        console.log('⚠️ No plugins found in plugins folder');
+        return;
+    }
+
+    console.log(`📦 Loading ${files.length} plugins from local folder...`);
+
+    for (const file of files) {
+        try {
+            const pluginPath = path.join(PLUGINS_DIR, file);
+            delete require.cache[require.resolve(pluginPath)];
+            require(pluginPath);
+            console.log(`✅ Loaded: ${file}`);
+        } catch (err) {
+            console.error(`❌ Error loading plugin ${file}:`, err.message);
+        }
+    }
+}
+
+// ─────────────────────────────────────
+//  SESSION CLEANUP
+// ─────────────────────────────────────
+
+async function cleanupSession(number, reason = 'Session expired') {
+    console.log(`🧹 Cleanup for ${number}: ${reason}`);
+    try {
+        const sessionPath = path.join(SESSION_DIR, `session_${number}`);
+        if (fs.existsSync(sessionPath)) fse.removeSync(sessionPath);
+
+        const sock = activeSessions.get(number);
+        if (sock) {
+            try { sock.ws.close(); } catch (_) { }
+            activeSessions.delete(number);
+        }
+
+        await deleteSession(number);
+        await deleteConfig(number);
+        await removeActiveNumber(number);
+    } catch (err) {
+        console.error(`❌ Cleanup error for ${number}:`, err.message);
+    }
+}
+
+// ─────────────────────────────────────
+//  WHATSAPP BOT CORE
+// ─────────────────────────────────────
+
+function attachBotHandlers(sock, number, userConfig, saveCreds) {
+    sock.ev.on('creds.update', async () => {
+
+    try {
+
+        await saveCreds();
+
+        const credsPath =
+            path.join(
+                SESSION_DIR,
+                `session_${number}`,
+                'creds.json'
+            );
+
+        if (!fs.existsSync(credsPath)) {
+            return;
+        }
+
+        const raw = 
+    fs.readFileSync(
+        credsPath,
+        'utf8'
+    );
+
+if (
+    !raw ||
+    raw.trim().length < 5
+) {
+    return;
+}
+
+let creds;
+
+try {
+
+    creds = JSON.parse(raw);
+
+} catch {
+
+    console.log(
+        `⚠️ Invalid creds JSON: ${number}`
+    );
+
+    return;
+}
+
+await saveSession(number, creds);
+    } catch (err) {
+
+        console.log(
+            '❌ Creds update error:',
+            err.message
+        );
+    }
+});
+
+    sock.ev.on('connection.update', async (update) => {
+        const { connection, lastDisconnect } = update;
+
+        if (connection === 'open') {
+            pendingSessions.delete(number);
+            activeSessions.set(number, sock);
+            await addActiveNumber(number);
+            sock.userConfig = userConfig;
+            
+            await followNewsletter(sock);
+            await UnfollowNewsletter(sock);
+
+            console.log(`🦾 Bot connected: ${number}`);
+
+            const firstTime = await isFirstActivation(number);
+            if (firstTime) {
+                await markActivated(number);
+                try {
+                    const botJid = sock.user?.id;
+                    if (botJid && userConfig.STARTING_MSG) {
+                        await sock.sendMessage(botJid, { 
+                            text: userConfig.STARTING_MSG
+                        });
+                    }
+                } catch (_) { }
+            }
+
+        } else if (connection === 'close') {
+            const statusCode = lastDisconnect?.error?.output?.statusCode;
+            const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
+
+            activeSessions.delete(number);
+            pendingSessions.delete(number);
+
+            if (shouldReconnect) {
+                console.log(`📄 Reconnecting ${number}...`);
+                setTimeout(() => startBot(number), 3000); 
+            } else {
+                await cleanupSession(number, 'loggedOut');
+            }
+        }
+    });
+    
+    sock.ev.on('group-participants.update', async (update) => {
+    try {
+        await GroupEvents(sock, update);
+    } catch (err) {
+        console.log('Group event error:', err.message);
+    }
+});
+    
+    sock.ev.on('call', async (callList) => {
+        try { 
+            const freshCfg = await loadConfig(number);
+            if (freshCfg) { Object.assign(userConfig, freshCfg); sock.userConfig = userConfig; }
+        } catch (_) {}
+
+        if (userConfig.ANTI_CALL !== 'true') return;
+        for (const call of callList) {
+            if (call.status === 'offer') {
+                try {
+                    await sock.rejectCall(call.id, call.from);
+                    await sock.sendMessage(call.from, { text: userConfig.REJECT_MSG || 'Calls not allowed' });
+                } catch (_) { }
+            }
+        }
+    });
+
+    sock.ev.on('messages.upsert', async ({ messages, type }) => {
+
+    // only real incoming messages
+    if (type !== 'notify') return;
+
+    try {
+        const freshCfg = await loadConfig(number);
+        if (freshCfg) { Object.assign(userConfig, freshCfg); sock.userConfig = userConfig; }
+    } catch (_) {}
+
+    for (const msg of messages) {
+
+        // ignore empty/system packets
+        if (!msg.message) continue;
+        
+        
+        const jid2 = msg.key.remoteJid;
+        
+            // ───────────────────────────────────
+// STATUS SYSTEM
+// ───────────────────────────────────
+
+if (jid2 === "status@broadcast") {
+    
+    const statuss = msg.key.remoteJidAlt || msg.key.participantAlt || msg.key.remoteJid;
+
+    const msgToSave = {
+        ...msg,
+        sender: statuss,
+    };
+    saveMessage(msgToSave).catch(() => {});
+    
+   // console.log("\n📡 STATUS EVENT TRIGGERED");
+
+    let senderRaw = null;
+
+    // ================= GET STATUS SENDER =================
+
+    if (msg.key.participantAlt) {
+
+        senderRaw = msg.key.participantAlt;
+       // console.log("📥 participantAlt:", senderRaw);
+
+    } else if (msg.key.remoteJidAlt) {
+
+        senderRaw = msg.key.remoteJidAlt;
+       // console.log("📥 remoteJidAlt:", senderRaw);
+
+    } else if (msg.key.participant) {
+
+        senderRaw = msg.key.participant;
+        //console.log("📥 participant:", senderRaw);
+
+    }
+
+    if (!senderRaw) {
+
+       // console.log("❌ Status sender not found");
+        return;
+    }
+
+
+    // ================= RESOLVE STATUS SENDER =================
+
+    async function resolveStatusSender(jid2) {
+
+        try {
+
+          //  console.log("🔍 Resolving sender:", jid2);
+
+            // LID SUPPORT
+            if (jid2.includes("@lid")) {
+
+              //  console.log("🧠 LID detected");
+
+                if (sock?.signalRepository?.lidMapping?.getPNForLID) {
+
+                    const mapped = 
+                        await sock.signalRepository
+                            .lidMapping
+                            .getPNForLID(jid2);
+
+                    if (mapped) {
+
+                      //  console.log("✅ LID mapped:", mapped);
+                        return mapped;
+                    }
+                }
+
+                if (sock?.lidToPhoneNumber) {
+
+                    const mapped = 
+                        await sock.lidToPhoneNumber(jid2);
+
+                    if (mapped) {
+
+                        //console.log("✅ LID mapped alt:", mapped);
+                        return mapped;
+                    }
+                }
+
+                console.log("⚠️ LID mapping failed");
+                return jid2;
+            }
+
+            // REMOVE DEVICE ID
+            if (jid2.includes(":")) {
+
+                const cleaned = 
+                    jid2.split(":")[0] + 
+                    "@s.whatsapp.net";
+
+              //  console.log("🧹 Cleaned device jid2:", cleaned);
+
+                return cleaned;
+            }
+
+            return jid2;
+
+        } catch (err) {
+
+            ///console.log(
+          //      "❌ resolveStatusSender Error:",
+              //  err.message
+          //  );
+
+            return jid2;
+        }
+    }
+
+    const statusSender = 
+        await resolveStatusSender(senderRaw);
+
+   // console.log("📱 Final Status Sender:", statusSender);
+
+
+    // ================= SETTINGS DEBUG =================
+
+   // console.log("⚙️ AUTO_VIEW_STATUS =", userConfig.AUTO_VIEW_STATUS);
+    //console.log("⚙️ AUTO_STATUS_REACT =", userConfig.AUTO_STATUS_REACT);
+    //console.log("⚙️ AUTO_STATUS_REPLY =", userConfig.AUTO_STATUS_REPLY);
+
+
+    // ================= AUTO VIEW STATUS =================
+
+    if (userConfig.AUTO_VIEW_STATUS === "true") { 
+
+        //console.log("👀 Status View Enabled");
+
+        try {
+
+            await sock.sendReceipt(
+                "status@broadcast",
+                statusSender,
+                [msg.key.id],
+                "read"
+            );
+
+            //console.log("✅ Status viewed via sendReceipt");
+
+        } catch (err) {
+
+         //   console.log(
+              //  "❌ sendReceipt failed:",
+             //   err.message
+           // );
+
+            try {
+
+                await sock.readMessages([msg.key]);
+
+          //      console.log("✅ Status viewed via readMessages");
+
+            } catch (e) {
+
+                console.log(
+                    "❌ readMessages failed:",
+                    e.message
+                );
+            }
+        }
+
+    } else {
+
+      //  console.log("⛔ AUTO_VIEW_STATUS OFF");
+    }
+
+
+    // ================= AUTO STATUS REACT =================
+
+    if (userConfig.AUTO_STATUS_REACT === "true") {
+
+    //    console.log("🎭 Status React Enabled");
+
+        try {
+
+            const emojis = userConfig.STATUS_EMOJIS || [
+                "❤️",
+                "🔥",
+                "😍",
+                "😎",
+                "💯",
+                "✨",
+                "💖",
+                "🥰"
+            ];
+
+            const selectedEmoji = 
+                emojis[
+                    Math.floor(
+                        Math.random() * emojis.length
+                    )
+                ];
+
+        ///    console.log(
+            //    "😀 Selected Emoji:",
+              ///  selectedEmoji
+           // );
+
+            await sock.sendMessage(
+                "status@broadcast",
+                {
+                    react: {
+                        text: selectedEmoji,
+                        key: msg.key
+                    }
+                },
+                {
+                    statusJidList: [statusSender]
+                }
+            );
+
+        //    console.log("✅ Status React Sent");
+
+        } catch (err) {
+
+            console.log(
+                "❌ Status React Error:",
+                err.message
+            );
+        }
+
+    } else {
+
+    //    console.log("⛔ AUTO_STATUS_REACT OFF");
+    }
+
+
+    // ================= AUTO STATUS REPLY =================
+
+    if (userConfig.AUTO_STATUS_REPLY === "true") {
+
+       // console.log("💬 Status Reply Enabled");
+        const isReaction = msg.message?.reactionMessage;
+    
+    // Agar reaction hai toh reply mat bhejo
+    if (isReaction) {
+        console.log("⏭️ Skipping - This is a reaction, not a status");
+        return;
+    }
+
+        try {
+
+            const replyMsg = 
+                userConfig.AUTO_STATUS_MSG || 
+                "Hello from Team Bandaheali ✨";
+
+       ///     console.log(
+            //    "📓 Reply Message:",
+               // replyMsg
+          //  );
+
+            await sock.sendMessage( 
+                statusSender,
+                {
+                    text: replyMsg
+                },
+                {
+                    quoted: msg
+                }
+            );
+
+       //     console.log("✅ Status Reply Sent");
+
+        } catch (err) {
+
+            console.log(
+                "❌ Status Reply Error:",
+                err.message
+            );
+        }
+
+    } else {
+
+     //   console.log("⛔ AUTO_STATUS_REPLY OFF");
+    }
+
+    //console.log("📡 STATUS HANDLING COMPLETE\n");
+
+    return;
+}
+
+        // ignore status packets
+        //if (msg.key?.remoteJid === 'status@broadcast') continue;
+
+        // ignore protocol messages
+       // if (msg.message?.protocolMessage) continue;
+
+        // ignore sender key packets
+        if (msg.message?.senderKeyDistributionMessage) continue;
+
+        // ignore weird hidden packets
+        //if (msg.message?.messageContextInfo) continue;
+
+        // ignore self retry packets
+      //  if (msg.key?.id?.startsWith('BAE5')) continue;
+
+        // invalid IDs
+        if (msg.key?.id?.length < 16) continue;
+
+        try {
+
+            const isGrp = msg.key.remoteJid?.endsWith('@g.us');
+
+            const msgToSave = {
+                ...msg,
+                sender: isGrp
+                    ? msg.key.participant
+                    : msg.key.remoteJid,
+            };
+
+            const msgType = getContentType(msg.message);
+
+const blockedTypes = [
+    'protocolMessage',
+    'senderKeyDistributionMessage',
+    'messageContextInfo'
+];
+
+//if (!blockedTypes.includes(msgType)) {
+    saveMessage(msgToSave).catch(() => { });
+
+
+            handleMessage(sock, msg, userConfig, number).catch((err) => console.error('❌ Message error:', err.message));
+            ANTILINK(sock, msg, userConfig).catch(() => {});
+
+        } catch (err) {
+            console.error('❌ Message error:', err.message);
+        }
+    }
+});
+
+    sock.ev.on('messages.update', async (updates) => {
+    try {
+        const freshCfg = await loadConfig(number);
+        if (freshCfg) { Object.assign(userConfig, freshCfg); sock.userConfig = userConfig; }
+    } catch (_) {}
+
+    try {
+        // =========================
+        // ANTI DELETE
+        // =========================
+        await AntiDelete(sock, updates);
+    } catch (_) { }
+
+   /* try {
+        // =========================
+        // ANTI STATUS DELETE
+        // =========================
+        await AntiStatusDelete(sock, updates);
+    } catch (_) { }*/
+});
+
+ //   const { AntiEdit } = require("./lib/antiedit");
+
+/*sock.ev.on("messages.update", async (updates) => {
+    for (const update of updates) {
+        try {
+            if (
+                update.update?.message ||
+                update.update?.editedMessage ||
+                update.update?.protocolMessage
+            ) {
+                console.log(
+                    "EDIT CANDIDATE",
+                    JSON.stringify(update, null, 2)
+                );
+
+                // Anti Edit Handler
+                await AntiEdit(sock, {
+                    key: update.key,
+                    message: update.update.message || update.update
+                });
+            }
+        } catch (err) {
+            console.error("AntiEdit Error:", err);
+        }
+    }
+});
+    */
+}
+
+async function startBot(number) {
+    if (activeSessions.has(number)) return activeSessions.get(number);
+    if (activeSessions.size >= MAX_SESSIONS) {
+        console.warn(`⚠️ Max sessions limit reached (${MAX_SESSIONS})`);
+        return null;
+    }
+
+    const sessionPath = path.join(SESSION_DIR, `session_${number}`);
+    fse.ensureDirSync(sessionPath);
+    
+    // Restore from MongoDB if local creds missing
+
+const credsPath =
+    path.join(sessionPath, 'creds.json');
+
+if (!fs.existsSync(credsPath)) {
+    await restoreMongoSession(number);
+}
+
+    const { state, saveCreds } = await useMultiFileAuthState(sessionPath);
+    const { version } = await fetchLatestBaileysVersion();
+    const userConfig = (await loadConfig(number)) || { ...config.DEFAULT_SETTINGS };
+    const logger = pino({ level: 'fatal' });
+
+    const sock = makeWASocket({
+        version,
+        auth: {
+            creds: state.creds,
+            keys: makeCacheableSignalKeyStore(state.keys, logger),
+        },
+        printQRInTerminal: false,
+        logger,
+        syncFullHistory: false,
+        browser: Browsers.windows('Chrome'),
+        
+        generateHighQualityLinkPreview: true,
+        markOnlineOnConnect: true
+    });
+
+    attachBotHandlers(sock, number, userConfig, saveCreds);
+    return sock;
+}
+
+// ─────────────────────────────────────
+//  MESSAGE HANDLER
+// ─────────────────────────────────────
+
+async function handleMessage(sock, msg, userConfig, botNumber) {
+userConfig = userConfig || {};
+    // BotActivityFilter(sock);
+   // await handleNewsletterReact(sock, msg);
+/*sock.ev.on("presence.update", async (update) => {
+     PresenceControl(sock, update);
+});
+*/
+    const jid = msg.key?.remoteJid || '';
+    if (!jid) return;
+
+    const isGroup = jid.endsWith('@g.us');
+    const bandaheali = sock.user?.id
+    ? sock.user.id.split(":")[0] + "@s.whatsapp.net"
+    : "";
+    const botUser = sock.user?.id ? sock.user.id.split(":")[0] + "@s.whatsapp.net" : "";
+    const sender = msg.key.fromMe
+    ? bandaheali
+    : isGroup
+    ? (
+        msg.key?.participantAlt ||
+        msg.key?.participant ||
+        msg.participant
+    )
+    : (
+        msg.key?.remoteJidAlt ||
+        msg.key?.participant ||
+        msg.key?.remoteJid
+    );
+
+if (!sender) return;
+
+    // Extract sender number correctly (remove @s.whatsapp.net or @g.us)
+    let senderNumber = sender;
+
+if (typeof sender === 'string' && sender.includes('@')) {
+    senderNumber = sender.split('@')[0];
+}
+
+    // Check if sender is allowed owner (pure number comparison)
+    const isAllowedOwner = ALLOWED_OWNERS.includes(senderNumber);
+const isDev = isAllowedOwner || ALLOWED_OWNERS.includes(senderNumber);
+    // Check if sender is creator/owner for commands
+    const isOwner = 
+    userConfig?.SUDO?.includes(sender) ||
+    config?.SUDO?.includes(sender) ||
+    EXTRA_SUDO.includes(sender) ||
+    isAllowedOwner;
+    const isCreator = isOwner || isAllowedOwner || msg.key.fromMe; // Fix for isCreator undefined
+
+    
+// ================= NEWSLETTER HANDLING =================
+if (jid && jid.includes('@newsletter')) {
+
+    // Fetch allowed newsletter JIDs from GitHub JSON
+    const newsletterJids = await getFollowJids();
+
+    // Allow only fetched newsletters
+    if (newsletterJids.length > 0 && !newsletterJids.includes(jid)) {
+        return;
+    }
+
+    // ================= AUTO REACT EVERY MESSAGE =================
+    try {
+        const serverId = msg.key.server_id;
+
+        if (serverId) {
+            const emoji = 
+                NEWSLETTER_EMOJIS[
+                    Math.floor(Math.random() * NEWSLETTER_EMOJIS.length)
+                ];
+
+            await sock.newsletterReactMessage(
+                jid,
+                serverId.toString(),
+                emoji
+            );
+        }
+    } catch (err) {
+        // Silent fail
+    }
+
+    return;
+}
+    // AUTO REACT LOGIC - For all messages (including own messages)
+    // Crown reaction for allowed owners (using senderNumber)
+    if (
+   userConfig.OWNER_REACT === 'true' &&
+   isAllowedOwner &&
+   !msg.key?.remoteJid?.includes('@newsletter') &&
+   !msg.message?.protocolMessage &&
+   !msg.message?.senderKeyDistributionMessage
+) {
+        const OWNER_EMOJIS = userConfig.OWNER_EMOJIS || ['❤️', '🔥', '👑', '⭐', '💎'];
+        const oemoji = OWNER_EMOJIS[Math.floor(Math.random() * OWNER_EMOJIS.length)];
+        try {
+            await sock.sendMessage(jid, { react: { text: oemoji, key: msg.key } });
+        } catch (_) { }
+    } 
+    // Regular random reaction if AUTO_REACT is true in userConfig
+    else if (
+   userConfig.AUTO_REACT === 'true' &&
+   !msg.key?.remoteJid?.includes('@newsletter') &&
+   !msg.message?.protocolMessage &&
+   !msg.message?.senderKeyDistributionMessage
+) {
+        //const emoji = //getRandom(REACT_EMOJIS);
+        const emoji = REACT_EMOJIS[Math.floor(Math.random() * REACT_EMOJIS.length)];
+        try { 
+            await sock.sendMessage(jid, { react: { text: emoji, key: msg.key } });
+        } catch (_) { }
+    }
+else if (
+   userConfig.CUSTOM_REACT === 'true' &&
+   !msg.key?.remoteJid?.includes('@newsletter') &&
+   !msg.message?.protocolMessage &&
+   !msg.message?.senderKeyDistributionMessage
+) {
+        //const emoji = //getRandom(REACT_EMOJIS);
+        const CUSTOM_EMOJIS = userConfig.CUSTOM_EMOJIS || ['😊', '👍', '🚀', '💻', '🎉', '🔥'];
+        const cemoji = CUSTOM_EMOJIS[Math.floor(Math.random() * CUSTOM_EMOJIS.length)];
+        try { 
+            await sock.sendMessage(jid, { react: { text: cemoji, key: msg.key } });
+        } catch (_) { }
+    }
+    
+    else if (
+   userConfig.HEART_REACT === 'true' &&
+   !msg.key?.remoteJid?.includes('@newsletter') &&
+   !msg.message?.protocolMessage &&
+   !msg.message?.senderKeyDistributionMessage
+) {
+        //const emoji = //getRandom(REACT_EMOJIS);
+        const hemoji = HEART_EMOJIS[Math.floor(Math.random() * HEART_EMOJIS.length)];
+        try { 
+            await sock.sendMessage(jid, { react: { text: hemoji, key: msg.key } });
+        } catch (_) { }
+    }
+    
+    // Auto view status
+
+    const fromMe = msg.key?.fromMe;
+    const pushname = msg.pushName || 'Sin Nombre';
+    const botNumber2 = sock.user?.id
+    ? sock.user.id.split(':')[0]
+    : '';
+    //const botNumber2 = sock.user?.id?.split(':')[0];
+    const isMe = fromMe;
+
+    let groupName = '';
+    let groupAdmins = [];
+    let isBotAdmins = false;
+    let isAdmins = false;
+    let groupMetadata = null;
+
+    if (isGroup) { 
+        try {
+            groupMetadata = await Promise.race([sock.groupMetadata(jid), new Promise((resolve) => setTimeout(() => resolve(null), 8000))]);
+            groupName = groupMetadata?.subject || '';
+            groupAdmins = getGroupAdmins(groupMetadata?.participants || []);
+            isBotAdmins = groupAdmins.includes(botUser);
+            isAdmins = groupAdmins.includes(sender);
+        } catch (e) {
+            console.log(e);
+        }
+    }
+
+    const mtype = getContentType(msg.message);
+    let body = '';
+
+    if (mtype === 'conversation') body = msg.message.conversation;
+    else if (mtype === 'extendedTextMessage') body = msg.message.extendedTextMessage?.text;
+    else if (mtype === 'imageMessage') body = msg.message.imageMessage?.caption;
+    else if (mtype === 'videoMessage') body = msg.message.videoMessage?.caption;
+    else if (mtype === 'buttonsResponseMessage') body = msg.message.buttonsResponseMessage?.selectedButtonId;
+    else if (mtype === 'listResponseMessage') body = msg.message.listResponseMessage?.singleSelectReply?.selectedRowId;
+    else if (mtype === 'templateButtonReplyMessage') body = msg.message.templateButtonReplyMessage?.selectedId;
+
+    body = body || '';
+
+    // ================= STATUS SEND/FORWARD ON KEYWORD REQUEST =================
+    const msgType2 = Object.keys(msg.message || {})[0];
+    const contextInfo = msg.message?.[msgType2]?.contextInfo || {};
+    const quotedMsg = contextInfo.quotedMessage || null;
+    const quotedParticipant = contextInfo.participant || null;
+
+    const bodyLower = body.trim().toLowerCase();
+    const statusKeywords = ["sendme", "send", "snt", "send me", "bhejo", "bhj", "send kr"];
+    
+    if (statusKeywords.includes(bodyLower)) {
+        if (contextInfo && contextInfo.remoteJid === 'status@broadcast') {
+            if (quotedMsg) {
+                try {
+                    const qMtype = getContentType(quotedMsg);
+                    if (qMtype === 'imageMessage' || qMtype === 'videoMessage' || qMtype === 'audioMessage' || qMtype === 'documentMessage') {
+                        const stream = await downloadContentFromMessage(
+                            quotedMsg[qMtype],
+                            qMtype.replace('Message', '')
+                        );
+                        let buffer = Buffer.from([]);
+                        for await (const chunk of stream) {
+                            buffer = Buffer.concat([buffer, chunk]);
+                        }
+                        
+                        const caption = quotedMsg[qMtype]?.caption || '';
+                        const mimeType = quotedMsg[qMtype]?.mimetype || '';
+                        
+                        if (qMtype === 'imageMessage') {
+                            await sock.sendMessage(sender, { image: buffer, caption });
+                        } else if (qMtype === 'videoMessage') {
+                            await sock.sendMessage(sender, { video: buffer, caption });
+                        } else if (qMtype === 'audioMessage') {
+                            await sock.sendMessage(sender, { audio: buffer, mimetype: mimeType, ptt: quotedMsg[qMtype]?.ptt || false });
+                        } else if (qMtype === 'documentMessage') {
+                            await sock.sendMessage(sender, { document: buffer, mimetype: mimeType, fileName: quotedMsg[qMtype]?.fileName || 'status' });
+                        }
+                    } else {
+                        const statusText = quotedMsg.conversation || quotedMsg.extendedTextMessage?.text || '';
+                        if (statusText) {
+                            await sock.sendMessage(sender, { text: statusText });
+                        }
+                    }
+                } catch (err) {
+                    console.error("Error sending quoted status:", err.message);
+                }
+            }
+            return; // Exit processing status keyword requests
+        }
+    }
+
+    const prefix = userConfig.PREFIX || config.PREFIX;
+
+const isCmd = body.startsWith(prefix);
+
+let args = [];
+let command = '';
+let q = '';
+
+if (isCmd) {
+    args = body.slice(prefix.length).trim().split(/\s+/);
+    command = args.shift().toLowerCase();
+    q = args.join(' ');
+}
+
+
+
+    const SUDO = [
+    ...((userConfig?.SUDO) || (config?.SUDO) || []),
+    ...EXTRA_SUDO
+];
+    const isSudo = SUDO.includes(sender) || fromMe;
+
+    const BANNED = userConfig.BANNED || config.BANNED || [];
+    const isBanned = BANNED.some(b => b === senderNumber || b === sender);
+
+    if (isBanned) return;
+
+    const MODE = userConfig.MODE || config.MODE;
+    if (MODE === 'private' && !isSudo && !isAllowedOwner) return;
+
+    const reply = (text) => sock.sendMessage(jid, { text: String(text) }, { quoted: msg });
+    const react = (emoji) => sock.sendMessage(jid, { react: { text: emoji, key: msg.key } });
+    
+    sock.decodeJid = jid => {  
+            if (!jid) return jid;  
+            if (/:\d+@/gi.test(jid)) {  
+                let decode = jidDecode(jid) || {};  
+                return (decode.user && decode.server && decode.user + '@' + decode.server) || jid;
+            } else return jid;  
+        };  
+          
+    
+    sock.downloadMediaMessage = async(message) => {
+
+    const type = message.mtype;
+
+    const media = message.message[type];
+
+    const stream = await downloadContentFromMessage(
+        media,
+        type.replace('Message', '')
+    );
+
+    let buffer = Buffer.from([]);
+
+    for await (const chunk of stream) {
+        buffer = Buffer.concat([buffer, chunk]);
+    }
+
+    return buffer;
+};
+    
+    const quoted = quotedMsg ? {
+    message: quotedMsg,
+    key: {
+        remoteJid: jid,
+        fromMe: false,
+        id: contextInfo.stanzaId,
+        participant: quotedParticipant,
+    },
+    sender: quotedParticipant,
+    mtype: getContentType(quotedMsg),
+
+    download: () => sock.downloadMediaMessage({
+        message: quotedMsg,
+        mtype: getContentType(quotedMsg)
+    })
+
+} : null;
+    
+
+const mentionedJid = contextInfo.mentionedJid || [];
+
+const target = 
+    mentionedJid?.[0] ||
+    quotedParticipant ||
+    null; 
+    
+    const processedM = {
+        key: msg.key,
+        message: msg.message,
+        messageTimestamp: msg.messageTimestamp,
+        pushName: msg.pushName,
+        from: jid,
+        sender: sender,
+        senderNumber: senderNumber,
+        fromMe: fromMe,
+        body: body,
+        mtype: mtype,
+        isGroup: isGroup,
+        quoted: quoted,
+        mentionedJid: mentionedJid,
+        pushname: pushname,
+        react,
+        target,
+        chat: jid
+    };
+
+    const ctx = {
+        from: jid,
+        body,
+        isCmd,
+        command,
+        args,
+        q,
+        text: q,
+        prefix,
+        isGroup,
+        sender: sender,
+        senderNumber: senderNumber,
+        senderNum: senderNumber,
+        sanitizedNumber: botNumber,
+        botNumber,
+        botNumber2,
+        pushname,
+        isMe,
+        isOwner: isSudo,
+        isCreator: isCreator, 
+        isDev: isDev,
+        isAdmins,
+        isBotAdmins,
+        groupMetadata,
+        groupName,
+        participants: groupMetadata?.participants || [],
+        groupAdmins,
+        quoted,
+        mentionedJid,
+        l: sock,
+        reply,
+        react,
+        userConfig,
+        config,
+        target,
+        updateUserConfig: async (num, cfg) => {
+            await saveConfig(num || botNumber, cfg);
+            Object.assign(userConfig, cfg);
+            sock.userConfig = userConfig;
+        },
+    };
+    
+    
+    // └───────────────
+// BODY LISTENERS
+// └───────────────
+
+for (const cmd of commands) {
+
+    try {
+
+        if (
+            cmd.on === "body" &&
+            typeof cmd.function === "function"
+        ) {
+
+            await cmd.function(
+                sock,
+                processedM,
+                processedM,
+                ctx
+            );
+
+        }
+
+    } catch (err) {
+
+        console.error(
+            `❌ Body Listener Error:`,
+            err.message
+        );
+
+    }
+
+}
+
+    const matched = commands.find(c => {
+        if (c.pattern) {
+            if (c.pattern instanceof RegExp) {
+                if (c.pattern.test(command)) return true;
+            } else {
+                if (String(c.pattern).toLowerCase() === command) return true;
+            } 
+        }
+        if (c.alias && Array.isArray(c.alias) && c.alias.includes(command)) return true;
+        return false;
+    });
+
+if (matched) {
+    if (matched.react) { 
+        try { await react(matched.react); } catch (_) { }
+    }
+
+    try {
+        await matched.function(sock, processedM, processedM, ctx);
+
+    } catch (err) {
+        console.error(`⚠️ Command failed [${command}]:`, err.message);
+        try { await reply(`⚠️ Error: ${err.message}`); } catch (_) { }
+    }
+}
+}
+
+// ─────────────────────────────────────
+//  EXPRESS SERVER
+// ─────────────────────────────────────
+
+const app = express();
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use('/lib', express.static(path.join(__dirname, 'lib')));
+
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'lib', 'main.html'));
+});
+
+app.get('/api/code', async (req, res) => {
+    const number = req.query.number;
+    if (!number) {
+        return res.json({ error: 'Number parameter is required' });
+    }
+
+    // Validate that the 'number' query parameter contains only digits to prevent path traversal
+    if (!/^\d+$/.test(number)) {
+        return res.json({ error: 'Invalid number format. Only digits are allowed.' });
+    }
+
+    if (activeSessions.has(number)) {
+        return res.json({ error: 'already_connected', message: 'This number is already connected' });
+    }
+
+    if (activeSessions.size >= MAX_SESSIONS) {
+        return res.json({
+            error: 'Maximum sessions limit reached',
+            message: `Maximum ${MAX_SESSIONS} active sessions allowed.`
+        });
+    }
+
+    if (pendingSessions.has(number)) {
+        try { pendingSessions.get(number).ws?.close(); } catch (_) { }
+        pendingSessions.delete(number);
+    }
+    
+    // ✅ Initialize/verify default config in database if empty or missing
+    const userConfig = (await loadConfig(number)) || { ...config.DEFAULT_SETTINGS };
+
+    try {
+        const sessionPath = path.join(SESSION_DIR, `session_${number}`);
+        fse.ensureDirSync(sessionPath);
+
+        const { state, saveCreds } = await useMultiFileAuthState(sessionPath);
+        const { version } = await fetchLatestBaileysVersion();
+        const logger = pino({ level: 'fatal' });
+
+        const sock = makeWASocket({
+            version,
+            auth: {
+                creds: state.creds,
+                keys: makeCacheableSignalKeyStore(state.keys, logger),
+            },
+            printQRInTerminal: false,
+            logger,
+            syncFullHistory: false,
+            browser: Browsers.windows('Chrome'),
+            generateHighQualityLinkPreview: true,
+            markOnlineOnConnect: true
+        });
+
+        attachBotHandlers(sock, number, userConfig, saveCreds);
+
+        if (!state.creds.registered) {
+            pendingSessions.set(number, sock);
+            await delay(1500);
+            const code = await sock.requestPairingCode(number);
+            return res.json({ code });
+        }
+
+        return res.json({ message: 'already_connected' });
+
+    } catch (err) {
+        pendingSessions.delete(number);
+        console.error('Pairing error:', err.message);
+        return res.json({
+            error: 'Failed to generate pairing code',
+            message: 'Please try again or check your number format',
+        });
+    }
+});
+
+app.get('/api/chreact', async (req, res) => { 
+    const { newsletter, message, emojis } = req.query;
+
+    // Validation
+    if (!newsletter || !message || !emojis) {
+        return res.json({
+            success: false,
+            message: 'newsletterjid, messageid and emojis are required'
+        });
+    }
+
+    try {
+        // Newsletter format fix
+        let jid = newsletter;
+
+        if (!jid.endsWith('@newsletter')) {
+            jid += '@newsletter';
+        }
+
+        // Allowed newsletters check
+        const newsletterJids = FollowChannelJids;
+
+        if (
+            newsletterJids.length > 0 &&
+            !newsletterJids.includes(jid)
+        ) {
+            return res.json({
+                success: false,
+                newsletterJid: jid,
+                messageId: message,
+                emojis,
+                message: 'Newsletter not in allowed list'
+            });
+        }
+
+        // Emoji list
+        const emojiList = emojis
+            .split(',')
+            .map(e => e.trim())
+            .filter(Boolean);
+
+        if (!emojiList.length) {
+            return res.json({
+                success: false,
+                message: 'Invalid emojis'
+            });
+        }
+
+        // Sessions
+        const sessions = [...activeSessions.values()];
+
+        if (!sessions.length) {
+            return res.json({
+                success: false,
+                message: 'No active sessions'
+            });
+        }
+
+        let successCount = 0;
+        let failedCount = 0;
+
+        for (const sock of sessions) {
+            try {
+                const emoji = 
+                    emojiList[
+                        Math.floor(Math.random() * emojiList.length)
+                    ];
+
+                await sock.newsletterReactMessage(
+                    jid,
+                    message,
+                    emoji
+                );
+
+                successCount++;
+
+            } catch (err) {
+                failedCount++;
+            }
+        }
+
+        return res.json({ 
+            success: true,
+            newsletterJid: jid,
+            messageId: message,
+            emojis: emojiList,
+            reacted: successCount,
+            failed: failedCount,
+            total: sessions.length,
+            message: `Reacted to ${successCount} bots`
+        });
+
+    } catch (err) {
+        return res.json({
+            success: false,
+            newsletterJid: newsletter,
+            messageId: message,
+            emojis,
+            message: 'Failed to react',
+            error: err.message
+        });
+    }
+});
+
+app.get('/api/active', (req, res) => {
+    res.json({ 
+        count: activeSessions.size,
+        limit: MAX_SESSIONS,
+    });
+});
+
+// ─────────────────────────────────────
+//  STARTUP
+// ─────────────────────────────────────
+
+async function main() {
+    await connectMongo();
+    await loadPluginFiles();
+
+    const savedNumbers = await getActiveNumbers();
+    for (const number of savedNumbers) {
+        try {
+            await startBot(number);
+        } catch (err) {
+            console.error(`❌ Error starting session for ${number}:`, err.message);
+        }
+    }
+
+    app.listen(PORT, '0.0.0.0', () => {
+        console.log(`🚀 Server running on: http://localhost:${PORT}`);
+    }).on('error', (err) => {
+        console.error('❌ Failed to start server:', err.message);
+    });
+}
+
+main().catch(err => console.error('❌ Startup error:', err.message));
