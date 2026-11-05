@@ -24,7 +24,7 @@
     "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "fs-extra": "^11.2.0",
-    "jimp": "^0.16.1",
+    "jimp": "latest",
     "moment-timezone": "^0.6.0",
     "mongoose": "^8.0.0",
     "node-cache": "^5.1.1",
@@ -43,7 +43,6 @@
   },
   "keywords": [
     "whatsapp",
-    "bot",
     "multi-device",
     "baileys",
     "auto-deploy",
@@ -53,4 +52,3 @@
   "author": "Naveed MD",
   "license": "MIT"
 }
-
